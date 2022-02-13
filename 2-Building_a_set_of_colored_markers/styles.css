@@ -1,8 +1,8 @@
 h1 {
 	text-align: center;
 	font-family: Georgia, serif;
-	color: rgb(145,145,145);
-	padding: 13px 0 5px 0;
+	color: rgb(125,125,125);
+	padding: 13px 0 7px 0;
 }
 
 label{
@@ -15,7 +15,6 @@ label{
 
 hr{
 	border: 1px dotted lightgray;
-	margin-bottom: 10px;
 }
 
 .container {
@@ -46,19 +45,19 @@ hr{
 }
 
 .red {
-	margin-top: 25px;
+	margin-top: 35px;
 	background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 	box-shadow: 0 0 5px 0 rgba(83, 14, 14, 0.8);
 }
 
 .green {
-	margin-top: 40px;
+	margin-top: 45px;
 	background: linear-gradient(#55680D, #71F53E, #116C31);
 	box-shadow: 0 0 5px 0 #3B7E20CC;
 }
 
 .blue {
-	margin-top: 40px;
+	margin-top: 45px;
 	background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
     box-shadow: 0 0 5px 0 hsla(223,59%,31%,0.8);
 }
