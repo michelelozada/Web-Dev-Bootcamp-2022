@@ -4,3 +4,4 @@
 Exercício | Descrição 
 :---: | :---: 
 1 | [Elaborar um menu/tabela de preços para um café](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/1-Building_a_cafe_menu/)
+2 | [Estilizar três canetas marcadoras utilizando HTML e CSS]
