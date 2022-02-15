@@ -28,7 +28,7 @@ label.group{
 	font-size: 18px;
 	color: rgb(1,117,162);
 	margin-top: -9px;
-	margin-bottom: 22px;
+	margin-bottom: 12px;
 	font-weight: bold;
 	text-align: center;
 }
@@ -57,6 +57,13 @@ fieldset {
 	border: 1px dotted rgb(230,230,230);
 	padding: 2rem 1.5rem ;
 	background-color: white;
+	border-radis: 30px;
+}
+
+hr{
+	border: 1px dotted rgb(230,230,230);
+	margin-bottom: 15px;
+	opacity: 0.8;
 }
 
 
