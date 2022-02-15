@@ -22,7 +22,6 @@ p{
 	color: rgb(94,94,94);
 }
 
-
 label.group{
 	padding-bottom: 10px;
 	font-size: 18px;
@@ -42,8 +41,6 @@ label.note{
 	color: rgb(1,117,162);
 	font-style: oblique;
 }
-
-
 
 form {
 	width: 60vw;
@@ -65,7 +62,6 @@ hr{
 	margin-bottom: 15px;
 	opacity: 0.8;
 }
-
 
 label {
 	display: block;
@@ -138,4 +134,3 @@ input[type="text"],input[type="email"],input[type="password"],input[type="file"]
 placeholder 
   color: rgb(94,94,94);
 }
-
