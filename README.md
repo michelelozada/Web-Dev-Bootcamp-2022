@@ -5,3 +5,4 @@ Atividade | Descrição
 :---: | :---:
 1 | [Elaborar um menu/tabela de preços para um café](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/1-Building_a_cafe_menu/)
 2 | [Estilizar três canetas marcadoras utilizando HTML e CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/2-Building_a_set_of_colored_markers/)
+3 | [Criar um formulário de cadastro](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/3-Building_a_registration_form/)
