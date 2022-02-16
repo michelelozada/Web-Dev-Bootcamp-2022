@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>freeCode Camp Survey Form</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="shortcut icon" href="images/favicon.ico" />    
+	</head>
+
+	<body>
+		 <h1 id="title">freeCodeCamp Survey Form</h1>
+		 <p id="description">Thank you for taking the time to help us improve the platform</p>
+
+		<div id="container-border">
+			<form id="survey-form" action="sent.html">
+				<fieldset>  
+					<label class='group'>Your identification</label>
+					<hr>
+					<!-- Name input-->
+					<label id='name-label' class='field'>Name<input type='text' id='name' placeholder='Please enter your name' required></label>
+					<!-- Email input-->
+					<label id='email-label' class='field'>Email<input type='email' id="email" placeholder='Please enter your email' required></label>
+					<!-- Age input-->
+					<label id='age-label' class="field">Age <small>(optional)</small><input type="number" name="age" value="18" min="18" max="120" /></label>
+					<!-- Dropdown #1-->
+					<label id='dropdown1-label' class="field">Which option best describes your current role?
+						<select id='dropdown'>
+							<option value=''>Select current role</option>
+							<option value='1'>Student</option>
+							<option value='2'>Full time job</option>
+							<option value='3'>Full time learner</option>
+							<option value='4'>Prefer to not say</option>
+							<option value='5'>Other</option>
+						</select>
+					</label>
+				</fieldset> 
+				<br>
+				<fieldset> 
+					<label class='group'>You & freeCodeCamp</label>
+					<hr>
+					<!-- Radio buttons -->
+					<label id='reccomendation-label' > Would you recommend freeCodeCamp to a friend?</label>
+					<label id='definitely-label' class="field"><input type="radio" name="account-type" class="inline" /> Definitely</label>
+					<label id='maybe-label'class="field"><input type="radio" name="account-type" class="inline" /> Maybe</label>
+					<label id='notsure-label'class="field"><input type="radio" name="account-type" class="inline" /> Not sure</label>
+					<br>
+					<!-- Dropdown #2-->
+					<label id='feature-label' class="field">What is your favorite feature of freeCodeCamp?
+						<select id='dropdown2'>
+							<option value=''>Select an option</option>
+							<option value='1'>Challenges</option>
+							<option value='2'>Projects</option>
+							<option value='3'>Community</option>
+							<option value='4'>Open source</option>
+						</select>
+					</label>
+					<br>
+					<!-- Checkboxes -->
+					<label id='improvements-label'class="field">What would you like to see improved? <small>(Check all that apply)</small></label>
+					<label id='backend-label' class="field"><input type="checkbox" name="backend" class="inline" /> Back-end Projects</label>
+					<label id='datav-label' class="field"><input type="checkbox" name="datav" class="inline" /> Data Visualization</label>	
+					<label id='challenge-label' class="field"><input type="checkbox" name="challenge" class="inline" /> Challenges</label>	
+					<label id='opens-label' class="field"><input type="checkbox" name="opens" class="inline" /> Open Source Community</label>					  
+					<label id='gitterhelp-label' class="field"><input type="checkbox" name="gitterhelp" class="inline" /> Gitter help rooms</label>
+					<label id='videos-label' class="field"><input type="checkbox" name="videos" class="inline" /> Videos</label> 
+					<label id='meetups-label' class="field"><input type="checkbox" name="meetups" class="inline" /> City Meetups</label> 
+					<label id='wiki-label' class="field"><input type="checkbox" name="wiki" class="inline" /> Wiki</label>   
+					<label id='forum-label' class="field"><input type="checkbox" name="forum" class="inline" /> Forum</label>  
+					<label id='courses-label' class="field"><input type="checkbox" name="courses" class="inline" /> Additional Courses</label>  
+					<br>									
+					<!-- Comments-->
+					<label id='comments-label' class="field">Any comments or suggestions? <small>(We would be glad to hear from you)</small></label>
+					<textarea row="7" cols="30" placeholder="Enter your comments here..."></textarea>
+				</fieldset>  
+				<center>
+				<input type="reset" value="Reset" />
+				<input type="submit" value="Submit" />
+				</center>
+			</form>
+		</div>
+	  </body>
+</html>
+  
