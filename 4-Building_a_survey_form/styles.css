@@ -62,7 +62,6 @@ fieldset {
 	border: 1px dotted rgb(230,230,230);
 	padding: 2rem 1.5rem ;
 	background-color: white;
-	border-radis: 30px;
 	margin-bottom: 15px;
 }
 
@@ -108,11 +107,11 @@ input[type="submit"],input[type="reset"] {
 	min-width: 150px;
 	color: white;
 	margin: 15px 5px;
+	cursor: pointer;
 }
 
 input[type="submit"]:hover {
-  opacity: 0.9;
-  cursor: pointer;
+  background-color: rgba(168,88,187,0.8);
 }
 
 input[type="reset"] {
@@ -120,29 +119,22 @@ input[type="reset"] {
 	color: gray;
 }
 
-input[type="file"] {
-	padding: 1px 2px; 
-	background-color: white;
-	border: 0;
+input[type="reset"]:hover {
+	color: rgb(168,88,187);
+	border-color: rgba(168,88,187,0.8);	
 }
 
 input[type=number]::-webkit-inner-spin-button {
     opacity: 1
 }
 
-a{
-	color: rgb(1,117,162);
-	font-weight: 550;
-	text-decoration: none;
-
 select,textarea{
 	margin-top: 15px;
 }
 
-input[type="text"],input[type="email"],input[type="password"],input[type="file"],input[type="number"],input[type="radio"],input[type="checkbox"],select{
+input[type="text"],input[type="email"],input[type="number"],input[type="radio"],input[type="checkbox"],select{
 	padding: 4px 4px; 
 	line-height: 20px; 
-	padding-right: 20px;
 }
 
 placeholder 

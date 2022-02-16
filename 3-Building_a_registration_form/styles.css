@@ -55,7 +55,7 @@ fieldset {
 	border: 1px dotted rgb(230,230,230);
 	padding: 2rem 1.5rem ;
 	background-color: white;
-	border-radis: 30px;
+	border-radius: 30px;
 }
 
 hr{
