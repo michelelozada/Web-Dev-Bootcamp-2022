@@ -50,13 +50,28 @@ label.note{
 	text-align: center;
 }
 
-form {
-	width: 60vw;
-	max-width: 600px;
-	min-width: 400px;
-	margin: 0 auto;
-	padding-bottom: 2em;
+@media only screen and (max-width: 768px) {  
+/* se a tela do dispositivo estiver abaixo da largura de 768 pixels */	
+	form {
+		width: 60vw;
+		max-width: 500px;
+		min-width: 300px;
+		margin: 0 auto;
+		padding-bottom: 2em;
+	}
 }
+
+@media only screen and (min-width: 769px) { 
+/* se a tela do dispositivo estiver acima da largura de 769 pixels */
+	form {
+		width: 60vw;
+		max-width: 600px;
+		min-width: 400px;
+		margin: 0 auto;
+		padding-bottom: 2em;
+	}
+}
+
 
 fieldset {
 	border: 1px dotted rgb(230,230,230);
