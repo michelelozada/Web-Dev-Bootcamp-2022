@@ -56,6 +56,7 @@ fieldset {
 	padding: 2rem 1.5rem ;
 	background-color: white;
 	border-radius: 30px;
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 hr{
@@ -100,11 +101,16 @@ input[type="submit"] {
 	border-radius: 20px;
 	color: white;
 	margin-top: 35px;
+	
 }
 
 input[type="submit"]:hover {
   opacity: 0.9;
   cursor: pointer;
+  background-color: white;
+  color: rgb(1,117,162);
+  border: 1px solid rgb(1,117,162);
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 input[type="file"] {

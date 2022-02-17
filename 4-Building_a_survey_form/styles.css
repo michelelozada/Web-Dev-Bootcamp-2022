@@ -8,7 +8,6 @@ body {
 	font-size: 16px;
 	background-image: url(images/paper.png);
 	background-repeat: repeat;
-     
 }
 
 h1{
@@ -17,12 +16,24 @@ h1{
 	margin-bottom: 17px;
 	color: rgb(94,94,94);
 }
+@media only screen and (max-width: 768px) {  
+/* se a tela do dispositivo estiver abaixo da largura de 768 pixels */	
+	h1 {
+		margin: 25px 15px;
+	}
+}
 
 p{
 	margin: 1em auto;
 	text-align: center;
 	margin-bottom: 35px;
 	color: rgb(94,94,94);
+}
+
+@media only screen and (max-width: 768px) {  
+	p {
+		margin: 30px 15px;
+	}
 }
 
 small{
@@ -37,10 +48,17 @@ label.group{
 	margin-bottom: 12px;
 	font-weight: bold;
 	text-align: center;
+	-webkit-filter: contrast(105%); 
+		filter: contrast(105%); 
 }
 
-label.field{
+label.field,label.field2{
 	padding-top: 9px;
+}
+@media only screen and (max-width: 768px) {  
+	label.field{
+		text-align: center;
+	}
 }
 
 label.note{
@@ -51,7 +69,6 @@ label.note{
 }
 
 @media only screen and (max-width: 768px) {  
-/* se a tela do dispositivo estiver abaixo da largura de 768 pixels */	
 	form {
 		width: 60vw;
 		max-width: 500px;
@@ -62,7 +79,6 @@ label.note{
 }
 
 @media only screen and (min-width: 769px) { 
-/* se a tela do dispositivo estiver acima da largura de 769 pixels */
 	form {
 		width: 60vw;
 		max-width: 600px;
@@ -78,6 +94,7 @@ fieldset {
 	padding: 2rem 1.5rem ;
 	background-color: white;
 	margin-bottom: 15px;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 hr{
@@ -125,13 +142,23 @@ input[type="submit"],input[type="reset"] {
 	cursor: pointer;
 }
 
+@media only screen and (max-width: 768px) {  
+	input[type="submit"],input[type="reset"] {
+		margin: 9px 5px;
+	}
+}
+
+
 input[type="submit"]:hover {
-  background-color: rgba(168,88,187,0.8);
+	-webkit-filter: contrast(125%); 
+        filter: contrast(125%); 
 }
 
 input[type="reset"] {
 	background-color: white;
 	color: gray;
+	-webkit-filter: contrast(120%); 
+        filter: contrast(120%); 
 }
 
 input[type="reset"]:hover {
