@@ -8,3 +8,4 @@ Exercício | Descrição
 2 | [Estilizar três canetas marcadoras utilizando HTML e CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/2-Building_a_set_of_colored_markers/)
 3 | [Criar a interface para um formulário de cadastro de conta](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/3-Building_a_registration_form/)
 4 | [Criar a interface para um formulário de pesquisa](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/4-Building_a_survey_form)
+5 | [Estilizar uma pintura no estilo do pintor Mark Rothko, através do uso do padrão box model](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/5-Building_a_Rothko_painting)
