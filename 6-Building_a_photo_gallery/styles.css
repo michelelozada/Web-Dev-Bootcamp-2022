@@ -47,6 +47,12 @@ a{
 	border-radius: 10px;
 }
 
+.zoom:hover {
+  transform: scale(1.2);
+  transition: transform .3s; 
+}
+
+
 @media (max-width: 800px) {
 	#gallery img {
 		width: 50%;
