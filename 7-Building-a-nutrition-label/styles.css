@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.label {
+  border: 1px dotted rgb(42,119,211);
+  border-radius: 20px;
+  width: 320px;
+  margin: 55px auto;
+  padding: 15px 30px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+  
+  
+}
+
+header h1 {
+  text-align: center;
+  margin: -4px 0;
+  letter-spacing: 0.15px;
+  color:  rgb(42,119,211);
+  padding-bottom: 12px;
+  
+}
+
+h1{
+	padding-bottom: 6px;
+	 color: black;
+}
+
+.amount{
+	padding-top: 3px;
+	padding-bottom: 10px;
+}
+	
+
+p {
+  margin: 0;
+}
+
+.first {
+  padding-top: 2px;
+}
+
+.divider {
+  border-bottom: 1px solid rgba(125,125,125,0.5);
+  margin: 2px 0;
+  clear: right;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.bold-center {
+  font-weight: 800;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 12px;
+}
+
+.center{
+	text-align: center;
+}
+
+.right {
+  float: right;
+}
+.righth1 {
+  float: right;
+  font-size: 50px;
+}
+
+
+.md {
+  background-color: rgba(42,119,211,0.8);
+  border: 0;
+  height: 1px;
+}
+
+.sm-text {
+  font-size: 0.85rem;
+}
+
+label {
+  display: block;
+  font-size: 0.85rem;
+  color: rgb(42,119,211);
+ 
+  padding: 4px 0 4px 0;
+}
+
+
+.sm-text1 {
+  font-size: 0.85rem;
+  padding-top: 10px;
+  font-style: normal;
+}
+
+.calories-info h1 {
+  margin: -5px -2px;
+  overflow: hidden;
+}
+
+.calories-info span {
+  font-size: 1.2em;
+  margin-top: -7px;
+}
+
+.indent {
+  margin-left: 1em;
+}
+
+.dbl-indent {
+  margin-left: 2em;
+}
+
+.daily-value p:not(.no-divider) {
+  border-bottom: 1px solid rgba(125,125,125,0.5);
+  line-height: 185%;
+}
+
+.note {
+  font-size: 13px;
+  margin: 7px 0 0 0;
+  padding: 10px 0 0 0;
+  text-align: center;
+  color: black;
+  line-height: 170%;
+  font-style: oblique;
+ 
+  
+ 
+}

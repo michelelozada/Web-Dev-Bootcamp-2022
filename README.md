@@ -10,3 +10,4 @@ Exercício | Descrição
 4 | [Criar uma interface para um formulário de pesquisa](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/4-Building_a_survey_form)
 5 | [Estilizar uma pintura abstrata, através do uso do padrão box model](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/5-Building_a_Rothko_painting)
 6 | [Criar uma galeria de imagens responsiva com CSS Flexbox](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/6-Building_a_photo_gallery)
+7 | [Criar um rótulo com informações nutricionais de um produto](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/7-Building-a-nutrition-label)
