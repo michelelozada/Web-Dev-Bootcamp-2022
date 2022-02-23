@@ -1,6 +1,6 @@
 # Web Development Bootcamp (2022)
  Repositório em andamento com exercícios que realizei durante participação no chamado [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que está sendo promovido pelas plataformas Free Code Camp em parceria com a Class Central, em janeiro e fevereiro de 2022. O foco é desenvolvimento front-end com HTML e CSS.
-
+&nbsp;
 Exercício | Descrição 
 :---: | :---
 1 | [Elaborar um menu/tabela de preços para um café](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/1-Building_a_cafe_menu/)
@@ -10,3 +10,4 @@ Exercício | Descrição
 5 | [Estilizar uma pintura abstrata, através do uso do padrão box model](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/5-Building_a_Rothko_painting)
 6 | [Criar uma galeria de imagens responsiva com CSS Flexbox](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/6-Building_a_photo_gallery)
 7 | [Criar um rótulo com informações nutricionais de um produto](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/7-Building-a-nutrition-label)
+&nbsp;
