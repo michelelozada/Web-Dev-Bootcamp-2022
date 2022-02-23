@@ -5,7 +5,7 @@
 body {
 	margin: 0;
 	background: white;
-	font-family: Georgia, serif;
+	font-family: 'Georgia', serif;
 }
 
 p{
@@ -64,4 +64,3 @@ a{
     width: 100%;
 	}
 }
-
