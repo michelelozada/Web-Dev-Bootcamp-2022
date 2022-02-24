@@ -101,7 +101,6 @@ input[type="submit"] {
 	border-radius: 20px;
 	color: white;
 	margin-top: 35px;
-	
 }
 
 input[type="submit"]:hover {
@@ -138,6 +137,6 @@ input[type="text"],input[type="email"],input[type="password"],input[type="file"]
 	padding-right: 20px;
 }
 
-placeholder 
+placeholder{
   color: rgb(94,94,94);
 }
