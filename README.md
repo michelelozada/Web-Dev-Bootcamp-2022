@@ -10,4 +10,4 @@ Exercício | Descrição
 5 | [Estilizar uma pintura abstrata, através do uso do padrão box model](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/5-Building_a_Rothko_painting)
 6 | [Criar uma galeria de imagens responsiva com CSS Flexbox](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/6-Building_a_photo_gallery)
 7 | [Criar um rótulo com informações nutricionais de um produto](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/7-Building-a-nutrition-label)
-
+8 | [Criar uma página de tributo/homenagem a alguma personalidade](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/8-Building-a-tribute-page)

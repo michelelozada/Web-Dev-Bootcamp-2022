@@ -1,0 +1,105 @@
+body{
+	font-family: 'Candara', serif;
+	border-radius: 5px;
+	margin: 0;
+	color: rgb(125,125,125);
+	padding-bottom: 25px;
+}
+
+/* Text */
+h1,h3{
+	text-align: center;
+}
+
+h1{
+	color: rgb(247,112,151);
+	margin-bottom: -10px;
+}
+
+.box{
+	background-color: rgb(247,112,151);
+	color: white;
+	padding: 1px 0 1px 0;
+	margin-top: 30px;
+	margin-bottom: -5px;
+	text-align: center;
+}
+
+.title2{
+	color: rgba(125,125,125,0.8);
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.text{
+	color: rgb(125,125,125);
+	font-size: 18px;
+}
+
+/* Containers*/
+.container1{
+	margin: 0;
+}	
+
+#img-div{
+	text-align: center;
+	padding-top: 12px;
+}
+
+#image{
+	border-radius: 10px;
+	margin: auto;
+	width: 380px;
+	max-width: 100%;
+	height: auto;
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+#tribute-info{
+	text-align: center;
+	background-color: rgb(240,240,240);
+	margin: auto;
+}
+
+#tribute-info2{
+	display: inline-block;
+	text-align: left;
+	
+}
+
+.os{
+	color: rgb(247,112,151);
+	font-size: 20px;
+	vertical-align: middle;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: rgb(125,125,125);
+}
+
+#quote{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+}
+
+label{
+	color: rgb(247,112,151);
+}
+
+.box2{
+	display: block;
+	margin: auto;
+	color: rgb(125,125,125);
+	border: 1px solid lightgray;
+	border-right: none;
+	border-left: none;
+	width: 550px;
+	padding: 5px 4px 5px 4px;
+	text-align: center;
+	max-width: 100%;
+	font-size: 17px;
+}
