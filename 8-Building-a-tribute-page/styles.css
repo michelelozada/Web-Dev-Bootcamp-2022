@@ -110,3 +110,7 @@ label{
 	color: rgb(247,112,151);
 }
 
+.dottedUnderline{ 
+	border-bottom: 1px dotted rgb(247,112,151);
+	color: rgb(125,125,125);
+}
