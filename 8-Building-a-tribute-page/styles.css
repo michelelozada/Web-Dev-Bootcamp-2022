@@ -1,6 +1,5 @@
 body{
 	font-family: 'Candara', serif;
-	border-radius: 5px;
 	margin: 0;
 	color: rgb(125,125,125);
 	padding-bottom: 25px;
@@ -11,42 +10,54 @@ h1,h3{
 	text-align: center;
 }
 
-h1{
+#title1{
 	color: rgb(247,112,151);
 	margin-bottom: -10px;
+	font-weight:bold;
 }
 
-.box{
-	background-color: rgb(247,112,151);
-	color: white;
-	padding: 1px 0 1px 0;
-	margin-top: 30px;
-	margin-bottom: -5px;
-	text-align: center;
-}
-
-.title2{
+#title3{
 	color: rgba(125,125,125,0.8);
 	font-weight: bold;
 	font-size: 18px;
 }
 
-.text{
+#text{
 	color: rgb(125,125,125);
 	font-size: 18px;
 }
 
 /* Containers*/
-.container1{
-	margin: 0;
-}	
+#box{
+	background-color: rgb(247,112,151);
+	color: white;
+	font-size: 16px;
+	padding: 1px 0 1px 0;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.box2{
+	display: block;
+	margin: auto;
+	color: rgb(125,125,125);
+	border: 1px solid lightgray;
+	border-right: none;
+	border-left: none;
+	width: 550px;
+	padding: 10px 5px 10px 5px;
+	text-align: center;
+	max-width: 100%;
+	font-size: 17px;
+}
 
 #img-div{
 	text-align: center;
-	padding-top: 12px;
+	padding-top: 11px;
 }
 
 #image{
+	display: block;
 	border-radius: 10px;
 	margin: auto;
 	width: 380px;
@@ -67,6 +78,14 @@ h1{
 	
 }
 
+/* Elementos adicionais */
+
+#img-caption{
+	margin-top: 10px;	
+	font-size: 17px;
+}
+
+
 .os{
 	color: rgb(247,112,151);
 	font-size: 20px;
@@ -84,22 +103,10 @@ a{
 	padding-top: 15px;
 	padding-bottom: 15px;
 	font-size: 20px;
+	line-height: 1.5;
 }
 
 label{
 	color: rgb(247,112,151);
 }
 
-.box2{
-	display: block;
-	margin: auto;
-	color: rgb(125,125,125);
-	border: 1px solid lightgray;
-	border-right: none;
-	border-left: none;
-	width: 550px;
-	padding: 5px 4px 5px 4px;
-	text-align: center;
-	max-width: 100%;
-	font-size: 17px;
-}
