@@ -16,13 +16,13 @@ h1,h3{
 	font-weight:bold;
 }
 
-#title3{
+.title3{
 	color: rgba(125,125,125,0.8);
 	font-weight: bold;
 	font-size: 18px;
 }
 
-#text{
+.text{
 	color: rgb(125,125,125);
 	font-size: 18px;
 }
@@ -37,7 +37,7 @@ h1,h3{
 	text-align: center;
 }
 
-.box2{
+#box2{
 	display: block;
 	margin: auto;
 	color: rgb(125,125,125);
@@ -45,7 +45,7 @@ h1,h3{
 	border-right: none;
 	border-left: none;
 	width: 550px;
-	padding: 10px 5px 10px 5px;
+	padding: 10px;
 	text-align: center;
 	max-width: 100%;
 	font-size: 17px;
@@ -75,7 +75,6 @@ h1,h3{
 #tribute-info2{
 	display: inline-block;
 	text-align: left;
-	
 }
 
 /* Elementos adicionais */
@@ -110,7 +109,6 @@ label{
 	color: rgb(247,112,151);
 }
 
-.dottedUnderline{ 
-	border-bottom: 1px dotted rgb(247,112,151);
+.highlight{ 
 	color: rgb(125,125,125);
 }
