@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Criar um formulário com um quiz" />
+		<title>Mini-Quiz de HTML e CSS</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+  
+	<body>
+		<div id="header">
+		</div>
+				
+		<div id="main">
+			<h1 id="title">Mini-Quiz de HTML e CSS</h1>	
+			<form method="post" action="sent.html">
+				<!-- Setor de identificação do aluno -->
+				<section role="region" aria-labelledby="student-info">
+					<h2 class="title2 first">Informação do estudante</h2>
+					<div class="info">
+						<label for="student-name">Nome: </label>
+						<input type="text" name="student-name" id="student-name" />
+					</div>
+					<div class="info">
+						<label for="student-email">E-mail: </label>
+						<input type="email" name="student-email" id="student-email" />
+					</div>
+				</section>
+				<!-- Setor de perguntas HTML - questão 1-->
+				<section role="region" aria-labelledby="html-questions">
+					<h2 class="title2">HTML</h2>
+					<div class="question-block">
+						<p>1</p>
+						<fieldset class="question" name="html-question-one">
+							<legend>
+								Para criar um campo de texto em um formulário, <b>&#60;input type="textfiled"/&#62;</b> é a tag correta
+								a ser usada.
+							</legend>
+							<ul class="answers-list">
+								<li>
+								<label for="q1-a1">
+								<input type="radio" id="q1-a1" name="q1" value="true" />
+								Verdadeiro
+								</label>
+								</li>
+								<li>
+								<label for="q1-a2">
+								<input type="radio" id="q1-a2" name="q2" value="false" />
+								Falso
+								</label>
+								</li>
+							</ul>
+						</fieldset>
+					</div>
+					<!-- Setor de perguntas HTML questão 2 -->
+					<div class="question-block">
+						<p>2</p>
+						<fieldset class="question" name="html-question-two">
+							<legend>
+							Não é correto usar o atributo <b>src=""</b> junto à tag <b>&#60;a&#62;</b>
+							</legend>
+							<ul class="answers-list">
+							<li>
+							<label for="q2-a1">
+							<input type="radio" id="q2-a1" name="q3" value="true" />
+							Verdadeiro
+							</label>
+							</li>
+							<li>
+							<label for="q2-a2">
+							<input type="radio" id="q2-a2" name="q4" value="false" />
+							Falso
+							</label>
+							</li>
+							</ul>
+						</fieldset>
+					</div>
+				</section>
+				<!-- Setor de perguntas CSS questão 3 -->
+				<section class="last" role="region" aria-labelledby="css-questions">
+					<h2 class="title2">CSS</h2>
+					<div class="question-block">
+						<p>1</p>
+						<fieldset class="question" name="html-question-two">
+							<legend>
+							Ao usar a propriedade <b>padding</b>, é permitido o uso de valores negativos.
+							</legend>
+							<ul class="answers-list">
+							<li>
+							<label for="q1-b1">
+							<input type="radio" id="q2-a1" name="q5" value="true" />
+							Verdadeiro
+							</label>
+							</li>
+							<li>
+							<label for="q2-a2">
+							<input type="radio" id="q2-a2" name="q6" value="false" />
+							Falso
+							</label>
+							</li>
+							</ul>
+						</fieldset>
+					</div>
+					<!-- Setor de perguntas CSS questão 4 -->
+					<div class="question-block">
+						<p>2</p>
+						<fieldset class="question" name="html-question-two">
+							<legend>
+							'Text-color' é a propriedade usada quando se deseja alterar a cor de um texto no CSS.
+							</legend>
+							<ul class="answers-list">
+							<li>
+							<label for="q1-b2">
+							<input type="radio" id="q2-a1" name="q7" value="true" />
+							Verdadeiro
+							</label>
+							</li>
+							<li>
+							<label for="q2-a2">
+							<input type="radio" id="q2-a2" name="q8" value="false" />
+							Falso
+							</label>
+							</li>
+							</ul>
+						</fieldset>
+					</div>
+				</section>
+				<button type="submit">Enviar o quiz</button>
+			</form>
+		</div>
+		
+		<footer>
+			
+		</footer>
+	</body>
+</html>
