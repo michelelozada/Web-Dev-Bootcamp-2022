@@ -12,4 +12,4 @@ Exercício | Descrição
 07 | [Criar um rótulo com informações nutricionais de um produto](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/07-Building-a-nutrition-label)
 08 | [Criar uma página com um mini-quiz](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/08-Building-a-quiz)
 09 | [Criar uma página de tributo/homenagem a alguma personalidade](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/09-Building-a-tribute-page)
-10 | [Criar um balanço patrimonial, através do uso de pseudo-classes](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/(https://michelelozada.github.io/Web-Dev-Bootcamp-2022/10-Building-a-balance-sheet)
+10 | [Criar um balanço patrimonial, através do uso de pseudo-classes](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/10-Building-a-balance-sheet)
