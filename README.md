@@ -3,7 +3,7 @@
 
 Exercício | Descrição 
 :---: | :---
-01 | [Elaborar um menu/tabela de preços para um café](https://michelelozada.github.io/01-Elaborar_tabela_de_precos/)
+01 | [Elaborar um menu/tabela de preços para um café](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/01-Elaborar_tabela_de_precos/)
 02 | [Estilizar três canetas marcadoras utilizando HTML e CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/02-Estilizar_tres_canetas_marcadoras/)
 03 | [Criar uma interface para um formulário de cadastro de conta](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/03-Criar_formulario_de_cadastro/)
 04 | [Criar uma interface para um formulário de pesquisa](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/04-Criar_formulário_de_pesquisa/)
