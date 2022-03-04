@@ -14,4 +14,4 @@ Exercício | Descrição
 09 | [Criar uma página de tributo/homenagem a alguma personalidade](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/09-Criar_pagina_tributo/)
 10 | [Criar um balanço patrimonial, através do uso de pseudo-classes](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/10-Criar_balanco_patrimonial/)
 11 | [Estilizar uma pintura à la Pablo Picasso, através de posicionamento CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/11-Estilizar_pintura_Picasso/)
-12 | [Estilizar um piano, através de media queries e pseudo-classes]](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/12-Estilizar_um_piano/)
+12 | [Estilizar um piano, através de media queries e pseudo-classes](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/12-Estilizar_um_piano/)
