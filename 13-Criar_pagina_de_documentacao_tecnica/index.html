@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Criação de uma página para documentação técnica" />
+		<title>Documentação técnica</title>
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<link rel="shortcut icon" href="image/favicon.ico" />
+	</head>
+	
+	<body>
+		<!-- Barra de navegação -->
+		<main id="main-doc">
+			<nav id="navbar">
+				<header id="introducao">
+					<a id="0" class="active" href="index.html">Tópicos</a>
+				</header>
+				<a class="nav-link" href="#introducao">Introdução</a>
+				<a class="nav-link" href="#atributos">Atributos</a>
+				<a class="nav-link" href="#notas_de_uso">Notas de uso</a>
+				<a class="nav-link" href="#titulos_de_pagina">Títulos e SEO</a>
+				<a class="nav-link" href="#acessibilidade">Acessibilidade</a>
+				<a class="nav-link" href="#compatibilidade">Compatibilidade</a>
+				<a class="nav-link" href="#referencia">Referência</a>
+			</nav>
+
+		<!-- Primeira seção -->
+			<section class="main-section" id="introducao">
+				<h1 class="title1">&lt;title&gt;: O Título do Documento</h1>	
+				<header id="introducao">
+					<h2 class="title2">I. Introdução</h2>
+				</header>
+				<p>O elemento HTML <code>&lt;title&gt;</code> define o título do documento que é mostrado na barra de título de um navegador ou na aba da página. Pode conter somente texto e quaisquer marcações contidas no texto não são interpretadas.</p>
+				<p><strong>Exemplo:</strong>
+				<code>
+					&lt;title&gt;Grandma's Heavy Metal Festival Journal&lt;/title&gt;
+				</code>
+				</p>
+		
+		<!-- Tabela -->		
+				<div style="overflow-x: auto;">
+					<table style="width:auto">
+						<tr>
+							<td>Categorias de conteúdo:</td>
+							<td>Conteúdo de metadados</td>
+						</tr>
+						<tr>
+							<td>Conteúdo permitido:</td>
+							<td>Texto que não seja espaço em branco entre elementos</td>
+						</tr>
+						<tr>
+							<td>Omissão de marcação:</td>
+							<td>Ambas as tags de abertura e fechamento são obrigatórias. Observe que deixar de fora <code>&lt;/title&gt;</code> deve fazer com que o navegador ignore o restante da página.</td>
+						</tr>
+						<tr>
+							<td>Pais permitidos:</td> 
+							<td>Um elemento <code>&lt;head&gt;</code> que não contenha outro elemento &lt;title&gt;</td>
+						</tr>
+						<tr>
+							<td>Funções ARIA permitidas:</td>
+							<td>Nenhuma</td>
+						</tr>
+						<tr>
+							<td>Interface DOM:</td> 
+							<td><code>HTMLTitleElement</code></td>
+						</tr>
+					</table>
+				</div>
+			</section>
+			
+		<!-- Segunda seção -->
+			<section class="main-section" id="atributos">
+				<header id="atributos">
+					<h2 class="title2">II. Atributos</h2>
+				</header>
+				<p>Este elemento inclui somente os atributos globais.</p>
+			</section>
+			
+		<!-- Terceita seção -->	
+			<section class="main-section" id="notas_de_uso">
+				<header id="notas_de_uso">
+					<h2 class="title2">III. Notas de uso</h2>
+				</header>
+				<p>O elemento <code>&lt;title&gt;</code> é sempre usado dentro de um <code>&lt;head&gt;</code> da página.</p>
+			</section>	
+				
+		<!-- Quarta seção -->	
+			<section class="main-section" id="titulos_de_pagina">
+				<header id="titulos_de_pagina">
+					<h2 class="title2">IV. Títulos de página e SEO</h2>
+				</header>
+				<p>O conteúdo de um título de página pode ter implicações significativas para a otimização de mecanismos de pesquisa (SEO). Em geral, um título mais longo e descritivo tem melhor desempenho do que títulos curtos ou genéricos. O conteúdo do título é um dos componentes usados ​​pelos algoritmos do mecanismo de pesquisa para decidir a ordem na qual listar as páginas nos resultados da pesquisa. Além disso, o título é o "gancho" inicial pelo qual você chama a atenção dos leitores que olham para a página de resultados da pesquisa.</p>
+				<p>Algumas diretrizes e dicas para compor bons títulos:</p>
+				<ul>
+					<li>Evite títulos de uma ou duas palavras. Use uma frase descritiva ou um par de definição de termo para glossário ou páginas de estilo de referência.</li>
+					<li>Os mecanismos de pesquisa geralmente exibem cerca dos primeiros 55 a 60 caracteres do título de uma página. O texto além disso pode ser perdido, portanto, tente não ter títulos mais longos do que isso. Se você precisar usar um título mais longo, certifique-se de que as partes importantes venham antes e que nada crítico esteja na parte do título que provavelmente será descartada.</li>
+					<li>Não use "blobs de palavras-chave". Se o seu título for apenas uma lista de palavras, os algoritmos geralmente reduzem a posição da sua página nos resultados da pesquisa.</li>
+					<li>Tente garantir que seus títulos sejam o mais exclusivos possível em seu próprio site. Títulos duplicados — ou quase duplicados — podem contribuir para resultados de pesquisa imprecisos.</li>
+				</ul>
+				<p><strong>Exemplo:  </strong>
+					<code>
+						&lt;title&gt;Coisas interessantes e incríveis&lt;/title&gt;
+					</code>
+				</p>
+				<p>Este exemplo estabelece uma página cujo título (como exibido na parte superior da janela ou na guia da janela) como "Coisas interessantes e incríveis".</p>
+			</section>
+		
+		<!-- Quinta seção -->
+			<section class="main-section" id="acessibilidade">
+				<header id="acessibilidade">
+					<h2 class="title2">V. Acessibilidade</h2>
+				</header>
+				<p>É importante informar um valor para o <code>title</code> que descreva o propósito da página.</p>
+				<p>Uma técnica comum de navegação para usuários de tecnologias assistivas é ler o título da página a fim de deduzir o que ela contém. Isso ocorre porque navegar pela página para determinar o conteúdo dela pode ser confuso e consumir muito tempo.<p>
+				<p><strong>Exemplo:  </strong>
+					<code>
+						&lt;title&gt;Menu - Blue House Chinese Food - FoodYum: Online takeout today!&lt;/title&gt;
+					</code>
+				</p>
+				<p>Para ajudar o usuário, atualize o titlevalor da página para refletir alterações significativas no estado da página (como problemas de validação de formulário).</p>
+				<p><strong>Exemplo:  </strong>
+					<code>
+						&lt;title&gt;2 errors - Your order - Blue House Chinese Food - FoodYum: Online takeout today!&lt;/title&gt;
+					</code>
+				</p>
+			</section>
+			
+		<!-- Sexta seção -->	
+			<section class="main-section" id="compatibilidade">
+				<header id="compatibilidade">
+					<h2 class="title2">VI. Compatibilidade</h2>
+				</header>
+				<p>Este conteúdo acima foi elaborado e está disponível no seguinte <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/title" class="links" target="_blank" rel="noopener">link</a> do site MDN Web Docs.</p>
+			</section>
+		
+		
+		<!-- Sétima seção -->	
+			<section class="main-section" id="referencia">
+				<header id="referencia">
+					<h2 class="title2">VII. Referência</h2>
+				</header>
+				<p>Todo o conteúdo escrito desta página foi elaborado pela equipe do site <a href="https://developer.mozilla.org/" class="links" target="_blank" rel="noopener">MDN Web Docs</a>, com o texto disponível no seguinte <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/title" class="links" target="_blank" rel="noopener">link</a>.</p>
+				<br>
+				<p style="text-align:center;"><a href="#top" class="links">Voltar ao início da página</a>
+			</section>
+			
+		</main>
+	</body>
+</html>
