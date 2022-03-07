@@ -16,3 +16,4 @@ Exercício | Descrição
 11 | [Criar uma pintura *à la* Pablo Picasso, através de posicionamento CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/11-Estilizar_pintura_Picasso/)
 12 | [Estilizar um piano, utilizando media queries e pseudo-classes](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/12-Estilizar_um_piano/)
 13 | [Criar uma página de documentação técnica, que deve ser responsiva](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/13-Criar_pagina_de_documentacao_tecnica/)
+14 | [Criar um horizonte de prédios (skyline), que deve ser responsivo](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/14-Criar-um-horizonte-de-predios/)
