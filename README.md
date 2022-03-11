@@ -18,3 +18,4 @@ Exercício | Descrição
 13 | [Criar uma página de documentação técnica, que deve ser responsiva](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/13-Criar_pagina_de_documentacao_tecnica/)
 14 | [Criar um horizonte de prédios (skyline), que deve ser responsivo](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/14-Criar-um-horizonte-de-predios/)
 15 | [Criar um layout para matéria de revista, utilizando CSS Grid Layout](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/15-Criar-layout-materia-de-revista)
+16 | [Criar uma landing page para um produto fictício](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/16-Criar-uma-landing-page)
