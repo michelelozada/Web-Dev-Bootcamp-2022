@@ -1,5 +1,5 @@
 # Web Development Bootcamp (2022)
- Repositório em andamento com exercícios que realizei durante participação no chamado [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que está sendo promovido pelas plataformas Free Code Camp em parceria com a Class Central, em janeiro e fevereiro de 2022. O foco é desenvolvimento front-end com HTML e CSS.  
+ Repositório em andamento com exercícios que realizei durante participação no chamado [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que está sendo promovido pelas plataformas Free Code Camp em parceria com a Class Central, em janeiro e fevereiro de 2022. O foco é desenvolvimento front-end com HTML5 e CSS3.  
 
 Exercício | Descrição 
 :---: | :---
@@ -17,5 +17,6 @@ Exercício | Descrição
 12 | [Estilizar um piano, utilizando media queries e pseudo-classes](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/12-Estilizar_um_piano/)
 13 | [Criar uma página de documentação técnica, que deve ser responsiva](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/13-Criar_pagina_de_documentacao_tecnica/)
 14 | [Criar um horizonte de prédios (skyline), que deve ser responsivo](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/14-Criar-um-horizonte-de-predios/)
-15 | [Criar um layout para matéria de revista, utilizando CSS Grid Layout](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/15-Criar-layout-materia-de-revista)
-16 | [Criar uma landing page para um produto fictício](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/16-Criar-uma-landing-page)
+15 | [Criar um layout para matéria de revista, utilizando CSS Grid Layout](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/15-Criar-layout-materia-de-revista/)
+16 | [Criar uma landing page para um produto fictício](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/16-Criar-uma-landing-page/)
+17 | [Estilizar um roda gigante, utilizando transições e animações em CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/17_Estilizar-uma-roda-gigante/)
