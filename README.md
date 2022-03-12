@@ -19,4 +19,4 @@ Exercício | Descrição
 14 | [Criar um horizonte de prédios (skyline), que deve ser responsivo](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/14-Criar-um-horizonte-de-predios/)
 15 | [Criar um layout para matéria de revista, utilizando CSS Grid Layout](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/15-Criar-layout-materia-de-revista/)
 16 | [Criar uma landing page para um produto fictício](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/16-Criar-uma-landing-page/)
-17 | [Estilizar um roda gigante, utilizando transições e animações em CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/17_Estilizar-uma-roda-gigante/)
+17 | [Estilizar um roda gigante, utilizando transições e animações em CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/17-Estilizar-uma-roda-gigante/)
