@@ -1,5 +1,7 @@
 # Web Development Bootcamp (2022)
- Repositório em andamento com exercícios que realizei durante participação no chamado [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que está sendo promovido pelas plataformas Free Code Camp em parceria com a Class Central, em janeiro e fevereiro de 2022. O foco é desenvolvimento front-end com HTML5 e CSS3.  
+Repositório em andamento com exercícios que realizei durante participação no [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que foi promovido pelas plataformas [Free Code Camp](https://www.freecodecamp.org/) em parceria com a [Class Central](https://www.classcentral.com/) em janeiro e fevereiro de 2022. &nbsp;
+
+O foco deste bootcamp foi desenvolvimento front-end com HTML5 e CSS3, sendo que seu conteúdo programático foi baseado nos exercícios propostostos no curso [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), criado pelo Free Code Camp.   
 
 Exercício | Descrição 
 :---: | :---
@@ -19,4 +21,5 @@ Exercício | Descrição
 14 | [Criar um horizonte de prédios (skyline), que deve ser responsivo](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/14-Criar-um-horizonte-de-predios/)
 15 | [Criar um layout para matéria de revista, utilizando CSS Grid Layout](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/15-Criar-layout-materia-de-revista/)
 16 | [Criar uma landing page para um produto fictício](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/16-Criar-uma-landing-page/)
-17 | [Estilizar um roda gigante, utilizando transições e animações em CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/17-Estilizar-uma-roda-gigante/)
+17 | [Estilizar um pinguim acenando, utilizando transições e animações em CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/17-Estilizar-um-pinguim-acenando/)
+18 | [Estilizar um roda gigante, utilizando transições e animações em CSS](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/18-Estilizar-uma-roda-gigante/)
