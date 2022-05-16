@@ -1,5 +1,5 @@
 # Web Development Bootcamp (2022)
-Repositório em andamento com exercícios que realizei durante participação no [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que foi promovido pelas plataformas [Free Code Camp](https://www.freecodecamp.org/) em parceria com a [Class Central](https://www.classcentral.com/) em janeiro e fevereiro de 2022. &nbsp;
+Repositório com exercícios que realizei durante participação no [Free Web Development Bootcamp](https://www.classcentral.com/cohorts/webdev-bootcamp-spring-2022), que foi promovido pelas plataformas [Free Code Camp](https://www.freecodecamp.org/) em parceria com a [Class Central](https://www.classcentral.com/) em janeiro e fevereiro de 2022. &nbsp;
 
 O foco deste bootcamp foi desenvolvimento front-end com HTML5 e CSS3, sendo que seu conteúdo programático foi baseado nos exercícios propostos no curso [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), criado pelo Free Code Camp.   
 
