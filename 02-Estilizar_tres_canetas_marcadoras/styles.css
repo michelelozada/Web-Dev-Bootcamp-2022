@@ -11,6 +11,9 @@ label{
 	font-family: 'Times New Roman', serif;
 	font-size: 19px;
 	color: rgb(115,115,115);
+	padding-top: 10px;
+	
+	
 }
 
 hr{
@@ -25,7 +28,7 @@ hr{
 .marker {
 	width: 200px;
 	height: 25px;
-	margin: 40px auto 20px auto;
+	margin: 40px auto 50px auto;
 }
 
 .cap {

@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		 <meta name="description" content="Criação de uma interface para um formulário de cadastro de conta" />
+		<meta name="description" content="Criação de uma interface para um formulário de cadastro de conta" />
 		<title>Formulário de Registro</title>
 		<link rel="stylesheet" href="styles.css" />
 		<link rel="shortcut icon" href="image/favicon.ico" />    
@@ -14,43 +14,43 @@
 		<p>Para criar sua conta, por favor, preencha os campos abaixo.</p>
 		<div id="container-border">
 			<form action='sent.html'>
-			  <fieldset>
-			  <label class="group">Sua Identificação</label>
-			  <hr>
-			  <label class="field">Seu primeiro nome:<input type="text" name="first-name" required /></label>
-				<label class="field">Seu sobrenome:<input type="text" name="last-name" required /></label>
-				<label class="field">Seu e-mail:<input type="email" name="email" required /></label>
-				<label class="field">Crie uma senha:<input type="password" name="password" pattern="[a-z0-9]{8,}" required /></label>
-				<label class="note"><small>Deve ter no mínimo 8 caracteres e usar letras minúsculas ou números</small></label>
-			  </fieldset>
-			  <br>
-			   <fieldset>
-				<label class="group">Informações Adicionais</label>
-				<hr>
-				<label class="field">Inclua uma foto sua para o perfil: <input type="file" name="file" /></label>
-				<label class="field">Sua idade: <input type="number" name="age" value="18" min="18" max="120"/></label>
-				<label class="field" >Escreva uma breve descrição sua:
-				<textarea name="bio" rows="3" cols="30" placeholder="Ex: Sou estudante do curso de Programação..."></textarea>
-				</label>
-				<label class="field">Como você chegou até nós?
-					<select name="referrer">
-						<option value="">Selecione uma das opções abaixo</option>
-						<option value="1">Indicação de um amigo</option>
-						<option value="2">Publicidade</option>
-						<option value="3">Motores de busca</option>
-						<option value="4">Outros</option>
-					</select>
-				</label>
-			  </fieldset>
-			  <br>
-			  <fieldset>
-				<label class="group">Tipo da Conta</label>
-				<hr>
-				<label class="field"><input type="radio" name="account-type" class="inline" /> Conta Pessoal</label>
-				<label class="field"><input type="radio" name="account-type" class="inline" /> Conta Profissional</label>
-				<label class="field"><input type="checkbox" name="terms" class="inline" required /> Eu li e concordo com os <a href="terms.html" target="_blank" rel="noopener">termos e condições</a> do site.</label>
-			  </fieldset>
-			  <input type="submit" value="Enviar" />
+				<fieldset>
+					<label class="group">Sua Identificação</label>
+					<hr>
+					<label class="field">Seu primeiro nome:<input type="text" name="first-name" required /></label>
+					<label class="field">Seu sobrenome:<input type="text" name="last-name" required /></label>
+					<label class="field">Seu e-mail:<input type="email" name="email" required /></label>
+					<label class="field">Crie uma senha:<input type="password" name="password" pattern="[a-z0-9]{8,}" required /></label>
+					<label class="note"><small>Deve ter no mínimo 8 caracteres e usar letras minúsculas ou números</small></label>
+				</fieldset>
+				<br>
+				<fieldset>
+					<label class="group">Informações Adicionais</label>
+					<hr>
+					<label class="field">Inclua uma foto sua para o perfil: <input type="file" name="file" /></label>
+					<label class="field">Sua idade: <input type="number" name="age" value="18" min="18" max="120"/></label>
+					<label class="field">Escreva uma breve descrição sua:
+						<textarea name="bio" rows="3" cols="30" placeholder="Ex: Sou estudante do curso de Programação..."></textarea>
+					</label>
+					<label class="field">Como você chegou até nós?
+						<select name="referrer">
+							<option value="">Selecione uma das opções abaixo</option>
+							<option value="1">Indicação de um amigo</option>
+							<option value="2">Publicidade</option>
+							<option value="3">Motores de busca</option>
+							<option value="4">Outros</option>
+						</select>
+					</label>
+				</fieldset>
+				<br>
+				<fieldset>
+					<label class="group">Tipo da Conta</label>
+					<hr>
+					<label class="field"><input type="radio" name="account-type" class="inline" /> Conta Pessoal</label>
+					<label class="field"><input type="radio" name="account-type" class="inline" /> Conta Profissional</label>
+					<label class="field"><input type="checkbox" name="terms" class="inline" required /> Eu li e concordo com os <a href="terms.html" target="_blank" rel="noopener">termos e condições</a> do site.</label>
+				</fieldset>
+				<input type="submit" value="Enviar" />
 			</form>
 		</div>
   </body>
