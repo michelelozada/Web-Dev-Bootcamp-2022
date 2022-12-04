@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://michelelozada.github.io/Web-Dev-Bootcamp-2022/blob/main/assets/logo.png">
+<img src="https://github.com/michelelozada/Web-Dev-Bootcamp-2022/blob/main/assets/logo.png">
 <h2>Free Web Development Bootcamp (2022)</h2>
 <h3>•&nbsp; Tela Inicial &nbsp;•</h3>
 </div>
