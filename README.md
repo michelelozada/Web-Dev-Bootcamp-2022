@@ -1,24 +1,26 @@
 <div align="center">
 <img src="https://github.com/michelelozada/Web-Dev-Bootcamp-2022/blob/main/assets/logo.png">
 <h2>Free Web Development Bootcamp (2022)</h2>
-<h3>•&nbsp; Tela Inicial &nbsp;•</h3>
+<h3>⬝ &nbsp; Tela Inicial &nbsp;⬝</h3>
 </div>
 &nbsp;
 &nbsp;
 
-### Descrição  
+### 1. Descrição  
 Bootcamp que ocorreu durante o primeiro trimestre de 2022 e que foi promovido pelas plataformas educacionais [Free Code Camp](https://www.freecodecamp.org/) em parceria com a [Class Central](https://www.classcentral.com/).  
 &nbsp;
 &nbsp;    
-### Objetivo  
+### 2. Objetivo  
 Fornecer aos participantes uma trilha de estudos composta por mentorias e atividades relacionadas ao desenvolvimento front-end com **HTML5** e **CSS3**.  
 &nbsp;
 &nbsp; 
-### Atividades Realizadas  
-Todos os exercícios propostos durante o bootcamp foram inteiramente baseados no currículo do curso [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), criado pelo Free Code Camp, conforme o que segue abaixo:      
+### 3. Atividades Realizadas  
+Para treinamento e posterior certificação, todos os exercícios propostos durante o bootcamp foram baseados no currículo do curso [New Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), criado pelo Free Code Camp, sendo que foram desenvolvidas foram as seguintes atividades:      
 &nbsp;
-
-| Atividade | Descrição 
+  
+<div align="center">
+  
+| Atividade | Descrição
 | :---:     | :---
 | [01](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/files/01-Elaborar_tabela_de_precos/) | Elaborar um menu/tabela de preços para um café    
 | [02](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/files/02-Estilizar_tres_canetas_marcadoras/) | Estilizar três canetas marcadoras utilizando HTML e CSS   
@@ -39,7 +41,16 @@ Todos os exercícios propostos durante o bootcamp foram inteiramente baseados no
 | [17](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/files/17-Estilizar-um-pinguim-acenando/) | Estilizar um pinguim acenando, utilizando transições e animações em CSS   
 | [18](https://michelelozada.github.io/Web-Dev-Bootcamp-2022/files/18-Estilizar-uma-roda-gigante/) | Estilizar um roda gigante, utilizando transições e animações em CSS   
 
-&nbsp;
+ </div>
+  
 &nbsp; 
-### Certificado de Conclusão do Bootcamp
+### 4. Certificado de Conclusão do Bootcamp
 Emitido em 13 de março de 2022 ([pode ser acessado neste link](https://drive.google.com/file/d/14yGD1VXze62tsGRjHlxwgdBM1UyGh9iK/view?usp=sharing)).
+
+&nbsp;
+&nbsp;    
+<div align="center">
+  
+  [[Voltar ao topo]](https://github.com/michelelozada/Web-Dev-Bootcamp-2022#free-web-development-bootcamp-2022)
+  
+</div>
